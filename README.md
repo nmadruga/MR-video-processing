@@ -1,6 +1,6 @@
 # Motor Rehabilitation (MT) with video processing
 COMP820 - Assignment 2
-Demo created as part of group research for AUT Image & Video Processing paper
+Demo created as part of group research for Image & Video Processing.
 This demo is wirtten in python using Mediapipe library and OpenCV.
 
 **Abstract**
